@@ -34,11 +34,11 @@ function getRepresentedNumbers2(n) {
   return arr;
 }
 
-console.log("243a, num 1" + getRepresentedNumbers1(1));
-console.log("243a, num 5" + getRepresentedNumbers1(5));
-console.log("243a, num 11" + getRepresentedNumbers1(11));
-console.log("243a, num 25" + getRepresentedNumbers1(25));
-console.log("243b, num 1" + getRepresentedNumbers2(1));
-console.log("243b, num 5" + getRepresentedNumbers2(5));
-console.log("243b, num 11" + getRepresentedNumbers2(11));
-console.log("243b, num 25" + getRepresentedNumbers2(25));
+console.log("243a, num 1    - " + getRepresentedNumbers1(1));
+console.log("243a, num 5    - " + getRepresentedNumbers1(5));
+console.log("243a, num 11   - " + getRepresentedNumbers1(11));
+console.log("243a, num 25   - " + getRepresentedNumbers1(25));
+console.log("243b, num 1    - " + getRepresentedNumbers2(1));
+console.log("243b, num 5    - " + getRepresentedNumbers2(5));
+console.log("243b, num 11   - " + getRepresentedNumbers2(11));
+console.log("243b, num 25   - " + getRepresentedNumbers2(25));
